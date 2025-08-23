@@ -1,15 +1,19 @@
 package basic;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import java.util.*;
 
 public class ReverseString {
+    private final Logger logger = LoggerFactory.getLogger(ReverseString.class);
 
     public void useReverseFunction() {
         String name = "ajay";
 
         StringBuffer stringBuffer = new StringBuffer();
         stringBuffer.append(name);
-        System.out.println("This is the Given value: " + name + ", This is the Reversed String value: " + stringBuffer.reverse());
+        logger.info("This is the Given value: " + name + ", This is the Reversed String value: " + stringBuffer.reverse());
 
     }
 
@@ -26,7 +30,7 @@ public class ReverseString {
         for (int i = totalLength - 1; i >= 0; i--) {
             reversedName = reversedName + charArray[i];
         }
-        System.out.println("Reversed value using For loop: " + reversedName);
+        logger.info("Reversed value using For loop: " + reversedName);
 
     }
 
@@ -35,7 +39,7 @@ public class ReverseString {
 
         char[] charArray = name.toCharArray();
 
-        System.out.println("Original charArray: " + Arrays.toString(charArray));
+        logger.info("Original charArray: " + Arrays.toString(charArray));
 
         List<Character> list = new ArrayList<>();
 
@@ -50,11 +54,11 @@ public class ReverseString {
         // Using ListIterator to iterate over the reversed list
         ListIterator<Character> iterator = list.listIterator();
 
-        System.out.print("Reversed List: ");
+        StringBuilder reversedString = new StringBuilder("Reversed List: ");
         while (iterator.hasNext()) {
-            System.out.print(iterator.next());
+            reversedString.append(iterator.next());
         }
-        System.out.println(); // Print a new line for neatness
+        logger.info(reversedString.toString());
     }
 
 

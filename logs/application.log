@@ -1,0 +1,75 @@
+2025-08-23 20:16:15 [main] INFO  basic.SwapTwoVariable - This is an INFO message
+2025-08-23 21:07:52 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10 b = 20
+2025-08-23 21:07:52 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20 b = 10
+2025-08-23 21:13:45 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:13:45 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10 b = 20
+2025-08-23 21:13:45 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20 b = 10
+2025-08-23 21:13:45 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:13:45 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20 b = 40
+2025-08-23 21:13:45 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = -40 b = 20
+2025-08-23 21:14:04 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:14:04 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10 b = 20
+2025-08-23 21:14:04 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20 b = 10
+2025-08-23 21:14:04 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:14:04 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20 b = 40
+2025-08-23 21:14:04 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 80 b = 20
+2025-08-23 21:14:43 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:14:43 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10 b = 20
+2025-08-23 21:14:43 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20 b = 10
+2025-08-23 21:14:43 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:14:43 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20 b = 40
+2025-08-23 21:14:43 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 40 b = 20
+2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10 b = 20
+2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20 b = 10
+2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20 b = 40
+2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 40 b = 20
+2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - swapWithXOR function
+2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
+2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - After swap (XOR): a = 20, b = 10
+2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20, b = 10
+2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20, b = 40
+2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 40, b = 20
+2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - swapWithXOR function
+2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
+2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - After swap (XOR): a = 20, b = 10
+2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20, b = 10
+2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - usingThirdVariableWithArray function
+2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 10, b = 20
+2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20, b = 40
+2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 40, b = 20
+2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - swapWithXOR function
+2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
+2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - After swap (XOR): a = 20, b = 10
+2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20, b = 10
+2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - usingThirdVariableWithArray function
+2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20, b = 10
+2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20, b = 40
+2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 40, b = 20
+2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - swapWithXOR function
+2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
+2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - After swap (XOR): a = 20, b = 10
+2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20, b = 10
+2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - usingThirdVariableWithArray function
+2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20, b = 10
+2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20, b = 40
+2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 40, b = 20
+2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - swapWithXOR function
+2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
+2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - After swap (XOR): a = 20, b = 10
