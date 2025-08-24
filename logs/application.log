@@ -73,3 +73,39 @@
 2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - swapWithXOR function
 2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
 2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - After swap (XOR): a = 20, b = 10
+2025-08-24 12:42:22 [main] INFO  basic.ReverseNumber - The Given number is: 123
+2025-08-24 12:42:22 [main] INFO  basic.ReverseNumber - The Reversed number is: 321
+2025-08-24 12:44:21 [main] INFO  basic.ReverseNumber - The Given number is: 2233
+2025-08-24 12:44:21 [main] INFO  basic.ReverseNumber - The Reversed number is: 3322
+2025-08-24 19:41:38 [main] INFO  basic.GetStringLength - Length of the string usingLengthMethod: 7
+2025-08-24 19:41:38 [main] INFO  basic.GetStringLength - Length of the string usingForEachMethod: 7
+2025-08-24 21:00:24 [main] INFO  basic.GetSmallestNumber - Mention array list is: [Ljava.lang.Integer;@aecb35a
+2025-08-24 21:00:44 [main] INFO  basic.GetSmallestNumber - Mention array list is: [1, 2, 3, 4, 5]
+2025-08-24 21:06:53 [main] INFO  basic.GetSmallestNumber - Mention array list is: [1, 2, 3, 4, 5]
+2025-08-24 21:06:53 [main] INFO  basic.GetSmallestNumber - Using forEach and maxValue Comparison function
+2025-08-24 21:06:53 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 21:06:53 [main] INFO  basic.GetSmallestNumber - Using Arrays Sort, usingArraysLeast function
+2025-08-24 21:06:53 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 21:09:22 [main] INFO  basic.GetSmallestNumber - Mention array list is: [1, 2, 3, 4, 5]
+2025-08-24 21:09:22 [main] INFO  basic.GetSmallestNumber - Using forEach and maxValue, usingComparison function
+2025-08-24 21:09:22 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 21:09:22 [main] INFO  basic.GetSmallestNumber - Using Arrays Sort, usingArraysLeast function
+2025-08-24 21:09:22 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 21:09:22 [main] INFO  basic.GetSmallestNumber - Using Collections Sort, usingCollectionArray function
+2025-08-24 21:09:22 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 21:09:45 [main] INFO  basic.GetSmallestNumber - Mention array list is: [5, 1, 3, 6, 4, 5]
+2025-08-24 21:09:45 [main] INFO  basic.GetSmallestNumber - Using forEach and maxValue, usingComparison function
+2025-08-24 21:09:45 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 21:09:45 [main] INFO  basic.GetSmallestNumber - Using Arrays Sort, usingArraysLeast function
+2025-08-24 21:09:45 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 21:09:45 [main] INFO  basic.GetSmallestNumber - Using Collections Sort, usingCollectionArray function
+2025-08-24 21:09:45 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - Mention array list is: [5, 1, 3, 6, 4, 5]
+2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - Using forEach and maxValue, usingComparison function
+2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - Using Arrays Sort, usingArraysLeast function
+2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - Using Collections.min() function
+2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - Using Java 8 Streams
+2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1

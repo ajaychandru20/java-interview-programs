@@ -27,9 +27,11 @@ public class ReverseString {
 
         String reversedName = "";
 
+        StringBuilder stringBuilder = new StringBuilder();
         for (int i = totalLength - 1; i >= 0; i--) {
-            reversedName = reversedName + charArray[i];
+            stringBuilder.append(charArray[i]);
         }
+        reversedName = stringBuilder.toString();
         logger.info("Reversed value using For loop: " + reversedName);
 
     }
