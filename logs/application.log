@@ -109,3 +109,244 @@
 2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
 2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - Using Java 8 Streams
 2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
+2025-08-26 15:14:38 [main] INFO  basic.ReverseSentence - Number of words: 5
+2025-08-26 15:14:38 [main] INFO  basic.ReverseSentence - First word: I
+2025-08-26 15:14:38 [main] INFO  basic.ReverseSentence - Original sentence: I want to become SDET
+2025-08-26 15:14:38 [main] INFO  basic.ReverseSentence - Reversed sentence (method 1): SDET become to want I
+2025-08-26 15:14:38 [main] INFO  basic.ReverseSentence - Reversed sentence (method 2): SDET become to want I
+2025-08-26 17:25:31 [main] INFO  basic.FindElementInArray - Using loop method for this element contains check
+2025-08-26 17:27:05 [main] INFO  basic.FindElementInArray - Starting FindElementInArray program
+2025-08-26 17:27:05 [main] INFO  basic.FindElementInArray - Enter the number to check: 
+2025-08-26 17:27:15 [main] INFO  basic.FindElementInArray - Searching for number: 5
+2025-08-26 17:27:15 [main] INFO  basic.FindElementInArray - Array contents: [1, 3, 4, 5, 8, 2, 9]
+2025-08-26 17:27:15 [main] INFO  basic.FindElementInArray - Using traditional loop method to check if element exists
+2025-08-26 17:27:15 [main] INFO  basic.FindElementInArray - Number 5 is present in the array!
+2025-08-26 17:27:15 [main] INFO  basic.FindElementInArray - Using Java 8 Stream method to check if element exists
+2025-08-26 17:27:15 [main] INFO  basic.FindElementInArray - Number 5 is present in the array!
+2025-08-26 17:27:15 [main] INFO  basic.FindElementInArray - FindElementInArray program completed
+2025-08-26 17:27:50 [main] INFO  basic.FindElementInArray - Starting FindElementInArray program
+2025-08-26 17:27:50 [main] INFO  basic.FindElementInArray - Enter the number to check: 
+2025-08-26 17:27:58 [main] INFO  basic.FindElementInArray - Searching for number: 5
+2025-08-26 17:27:58 [main] INFO  basic.FindElementInArray - Array contents: [1, 3, 4, 5, 8, 2, 9]
+2025-08-26 17:27:58 [main] INFO  basic.FindElementInArray - Using traditional loop method to check if element exists
+2025-08-26 17:27:58 [main] INFO  basic.FindElementInArray - Number 5 is present in the array!
+2025-08-26 17:27:58 [main] INFO  basic.FindElementInArray - Using Java 8 Stream method to check if element exists
+2025-08-26 17:27:58 [main] INFO  basic.FindElementInArray - Number 5 is present in the array!
+2025-08-26 17:27:58 [main] INFO  basic.FindElementInArray - FindElementInArray program completed
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Starting FindPositionOfASCII program
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Demonstration with hardcoded values ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - 
+--- Processing: 'A' ---
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Processing input: 'A'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Number of characters to process: 1
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 1 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'A'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'A' (ASCII: 65)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'a' (ASCII: 97)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 1
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'A' is uppercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - 
+--- Processing: 'abc' ---
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Processing input: 'abc'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Number of characters to process: 3
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 1 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'a'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'A' (ASCII: 65)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'a' (ASCII: 97)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 1
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'a' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 2 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'b'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'B' (ASCII: 66)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'b' (ASCII: 98)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 2
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'b' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 3 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'c'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'C' (ASCII: 67)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'c' (ASCII: 99)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 3
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'c' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - 
+--- Processing: 'XyZ' ---
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Processing input: 'XyZ'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Number of characters to process: 3
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 1 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'X'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'X' (ASCII: 88)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'x' (ASCII: 120)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 24
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'X' is uppercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 2 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'y'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'Y' (ASCII: 89)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'y' (ASCII: 121)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 25
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'y' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 3 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'Z'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'Z' (ASCII: 90)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'z' (ASCII: 122)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 26
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'Z' is uppercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - 
+--- Processing: 'Hello World!' ---
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Processing input: 'Hello World!'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Number of characters to process: 12
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 1 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'H'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'H' (ASCII: 72)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'h' (ASCII: 104)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 8
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'H' is uppercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 2 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'e'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'E' (ASCII: 69)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'e' (ASCII: 101)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 5
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'e' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 3 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'l'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'L' (ASCII: 76)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'l' (ASCII: 108)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 12
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'l' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 4 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'l'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'L' (ASCII: 76)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'l' (ASCII: 108)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 12
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'l' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 5 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'o'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'O' (ASCII: 79)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'o' (ASCII: 111)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 15
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'o' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Character at position 6: ' ' is not a letter (ASCII: 32)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 7 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'W'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'W' (ASCII: 87)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'w' (ASCII: 119)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 23
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'W' is uppercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 8 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'o'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'O' (ASCII: 79)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'o' (ASCII: 111)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 15
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'o' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 9 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'r'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'R' (ASCII: 82)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'r' (ASCII: 114)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 18
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'r' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 10 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'l'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'L' (ASCII: 76)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'l' (ASCII: 108)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 12
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'l' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 11 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'd'
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'D' (ASCII: 68)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'd' (ASCII: 100)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 4
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'd' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Character at position 12: '!' is not a letter (ASCII: 33)
+2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - 
+=== Interactive Input Section ===
+2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - User entered: 'f'
+2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - Processing input: 'f'
+2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - Number of characters to process: 1
+2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - === Character at position 1 ===
+2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - Original character: 'f'
+2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'F' (ASCII: 70)
+2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'f' (ASCII: 102)
+2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 6
+2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - Input character 'f' is lowercase
+2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - FindPositionOfASCII program completed
+2025-08-26 23:50:34 [main] INFO  basic.FindPositionOfASCII - Starting FindPositionOfASCII program
+2025-08-26 23:50:34 [main] INFO  basic.FindPositionOfASCII - 
+=== Interactive Input Section ===
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - User entered: 'ABC'
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Processing input: 'ABC'
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Number of characters to process: 3
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - === Character at position 1 ===
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Original character: 'A'
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'A' (ASCII: 65)
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'a' (ASCII: 97)
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 1
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Input character 'A' is uppercase
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - === Character at position 2 ===
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Original character: 'B'
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'B' (ASCII: 66)
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'b' (ASCII: 98)
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 2
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Input character 'B' is uppercase
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - === Character at position 3 ===
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Original character: 'C'
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'C' (ASCII: 67)
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'c' (ASCII: 99)
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 3
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Input character 'C' is uppercase
+2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - FindPositionOfASCII program completed
+2025-08-28 19:54:35 [main] INFO  basic.ReverseString - This is the Given value: ajay, This is the Reversed String value: yaja
+2025-08-28 19:54:35 [main] INFO  basic.ReverseString - Reversed value using For loop: !edoC nraeL
+2025-08-28 19:54:35 [main] INFO  basic.ReverseString - Original charArray: [R, e, v, e, r, s, e, C, o, l, l, e, c, t, i, o, n]
+2025-08-28 19:54:35 [main] INFO  basic.ReverseString - Reversed List: noitcelloCesreveR
+2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - With using Iteration function
+2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: b
+2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
+2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - toFindChar: b
+2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 1
+2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - Without using Iteration function
+2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: b
+2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
+2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - stringToFindChar: B
+2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 1
+2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - With using Iteration function
+2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: B
+2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
+2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - toFindChar: B
+2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 0
+2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - Without using Iteration function
+2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: B
+2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
+2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - stringToFindChar: B
+2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 1
+2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - With using Iteration function
+2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: B
+2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
+2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - toFindChar: b
+2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 1
+2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - Without using Iteration function
+2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: B
+2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
+2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - stringToFindChar: B
+2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 1
+2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - With using Iteration function
+2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: o
+2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
+2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - toFindChar: o
+2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 6
+2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - Without using Iteration function
+2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: o
+2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
+2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - stringToFindChar: O
+2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 6
+2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - With using Iteration function
+2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: o
+2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
+2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - toFindChar: o
+2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 6
+2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - Without using Iteration function
+2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: o
+2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
+2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - stringToFindChar: O
+2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 6
+2025-08-28 22:33:11 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Using for loop iteration, to replace the character
+2025-08-28 22:34:24 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Using for loop iteration, to replace the character
+2025-08-28 22:37:22 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Using for loop iteration, to replace the character
+2025-08-28 22:39:42 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Using for loop iteration, to replace the character
