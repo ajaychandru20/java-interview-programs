@@ -1,352 +1,408 @@
-2025-08-23 20:16:15 [main] INFO  basic.SwapTwoVariable - This is an INFO message
-2025-08-23 21:07:52 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10 b = 20
-2025-08-23 21:07:52 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20 b = 10
-2025-08-23 21:13:45 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
-2025-08-23 21:13:45 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10 b = 20
-2025-08-23 21:13:45 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20 b = 10
-2025-08-23 21:13:45 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
-2025-08-23 21:13:45 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20 b = 40
-2025-08-23 21:13:45 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = -40 b = 20
-2025-08-23 21:14:04 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
-2025-08-23 21:14:04 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10 b = 20
-2025-08-23 21:14:04 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20 b = 10
-2025-08-23 21:14:04 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
-2025-08-23 21:14:04 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20 b = 40
-2025-08-23 21:14:04 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 80 b = 20
-2025-08-23 21:14:43 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
-2025-08-23 21:14:43 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10 b = 20
-2025-08-23 21:14:43 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20 b = 10
-2025-08-23 21:14:43 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
-2025-08-23 21:14:43 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20 b = 40
-2025-08-23 21:14:43 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 40 b = 20
-2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
-2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10 b = 20
-2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20 b = 10
-2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
-2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20 b = 40
-2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 40 b = 20
-2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - swapWithXOR function
-2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
-2025-08-23 21:16:41 [main] INFO  basic.SwapTwoVariable - After swap (XOR): a = 20, b = 10
-2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
-2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10, b = 20
-2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20, b = 10
-2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
-2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20, b = 40
-2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 40, b = 20
-2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - swapWithXOR function
-2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
-2025-08-23 21:20:43 [main] INFO  basic.SwapTwoVariable - After swap (XOR): a = 20, b = 10
-2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
-2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10, b = 20
-2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20, b = 10
-2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - usingThirdVariableWithArray function
-2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10, b = 20
-2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 10, b = 20
-2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
-2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20, b = 40
-2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 40, b = 20
-2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - swapWithXOR function
-2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
-2025-08-23 21:21:01 [main] INFO  basic.SwapTwoVariable - After swap (XOR): a = 20, b = 10
-2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
-2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10, b = 20
-2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20, b = 10
-2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - usingThirdVariableWithArray function
-2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10, b = 20
-2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20, b = 10
-2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
-2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20, b = 40
-2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 40, b = 20
-2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - swapWithXOR function
-2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
-2025-08-23 21:24:42 [main] INFO  basic.SwapTwoVariable - After swap (XOR): a = 20, b = 10
-2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - usingThirdVariable function
-2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10, b = 20
-2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20, b = 10
-2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - usingThirdVariableWithArray function
-2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 10, b = 20
-2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 20, b = 10
-2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - usingWithOutThirdVariable function
-2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - This is before swapping: a = 20, b = 40
-2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - This is after swapping: a = 40, b = 20
-2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - swapWithXOR function
-2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
-2025-08-23 21:26:17 [main] INFO  basic.SwapTwoVariable - After swap (XOR): a = 20, b = 10
-2025-08-24 12:42:22 [main] INFO  basic.ReverseNumber - The Given number is: 123
-2025-08-24 12:42:22 [main] INFO  basic.ReverseNumber - The Reversed number is: 321
-2025-08-24 12:44:21 [main] INFO  basic.ReverseNumber - The Given number is: 2233
-2025-08-24 12:44:21 [main] INFO  basic.ReverseNumber - The Reversed number is: 3322
-2025-08-24 19:41:38 [main] INFO  basic.GetStringLength - Length of the string usingLengthMethod: 7
-2025-08-24 19:41:38 [main] INFO  basic.GetStringLength - Length of the string usingForEachMethod: 7
-2025-08-24 21:00:24 [main] INFO  basic.GetSmallestNumber - Mention array list is: [Ljava.lang.Integer;@aecb35a
-2025-08-24 21:00:44 [main] INFO  basic.GetSmallestNumber - Mention array list is: [1, 2, 3, 4, 5]
-2025-08-24 21:06:53 [main] INFO  basic.GetSmallestNumber - Mention array list is: [1, 2, 3, 4, 5]
-2025-08-24 21:06:53 [main] INFO  basic.GetSmallestNumber - Using forEach and maxValue Comparison function
-2025-08-24 21:06:53 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
-2025-08-24 21:06:53 [main] INFO  basic.GetSmallestNumber - Using Arrays Sort, usingArraysLeast function
-2025-08-24 21:06:53 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
-2025-08-24 21:09:22 [main] INFO  basic.GetSmallestNumber - Mention array list is: [1, 2, 3, 4, 5]
-2025-08-24 21:09:22 [main] INFO  basic.GetSmallestNumber - Using forEach and maxValue, usingComparison function
-2025-08-24 21:09:22 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
-2025-08-24 21:09:22 [main] INFO  basic.GetSmallestNumber - Using Arrays Sort, usingArraysLeast function
-2025-08-24 21:09:22 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
-2025-08-24 21:09:22 [main] INFO  basic.GetSmallestNumber - Using Collections Sort, usingCollectionArray function
-2025-08-24 21:09:22 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
-2025-08-24 21:09:45 [main] INFO  basic.GetSmallestNumber - Mention array list is: [5, 1, 3, 6, 4, 5]
-2025-08-24 21:09:45 [main] INFO  basic.GetSmallestNumber - Using forEach and maxValue, usingComparison function
-2025-08-24 21:09:45 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
-2025-08-24 21:09:45 [main] INFO  basic.GetSmallestNumber - Using Arrays Sort, usingArraysLeast function
-2025-08-24 21:09:45 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
-2025-08-24 21:09:45 [main] INFO  basic.GetSmallestNumber - Using Collections Sort, usingCollectionArray function
-2025-08-24 21:09:45 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
-2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - Mention array list is: [5, 1, 3, 6, 4, 5]
-2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - Using forEach and maxValue, usingComparison function
-2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
-2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - Using Arrays Sort, usingArraysLeast function
-2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
-2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - Using Collections.min() function
-2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
-2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - Using Java 8 Streams
-2025-08-24 22:13:33 [main] INFO  basic.GetSmallestNumber - The min value of this array is: 1
-2025-08-26 15:14:38 [main] INFO  basic.ReverseSentence - Number of words: 5
-2025-08-26 15:14:38 [main] INFO  basic.ReverseSentence - First word: I
-2025-08-26 15:14:38 [main] INFO  basic.ReverseSentence - Original sentence: I want to become SDET
-2025-08-26 15:14:38 [main] INFO  basic.ReverseSentence - Reversed sentence (method 1): SDET become to want I
-2025-08-26 15:14:38 [main] INFO  basic.ReverseSentence - Reversed sentence (method 2): SDET become to want I
-2025-08-26 17:25:31 [main] INFO  basic.FindElementInArray - Using loop method for this element contains check
-2025-08-26 17:27:05 [main] INFO  basic.FindElementInArray - Starting FindElementInArray program
-2025-08-26 17:27:05 [main] INFO  basic.FindElementInArray - Enter the number to check: 
-2025-08-26 17:27:15 [main] INFO  basic.FindElementInArray - Searching for number: 5
-2025-08-26 17:27:15 [main] INFO  basic.FindElementInArray - Array contents: [1, 3, 4, 5, 8, 2, 9]
-2025-08-26 17:27:15 [main] INFO  basic.FindElementInArray - Using traditional loop method to check if element exists
-2025-08-26 17:27:15 [main] INFO  basic.FindElementInArray - Number 5 is present in the array!
-2025-08-26 17:27:15 [main] INFO  basic.FindElementInArray - Using Java 8 Stream method to check if element exists
-2025-08-26 17:27:15 [main] INFO  basic.FindElementInArray - Number 5 is present in the array!
-2025-08-26 17:27:15 [main] INFO  basic.FindElementInArray - FindElementInArray program completed
-2025-08-26 17:27:50 [main] INFO  basic.FindElementInArray - Starting FindElementInArray program
-2025-08-26 17:27:50 [main] INFO  basic.FindElementInArray - Enter the number to check: 
-2025-08-26 17:27:58 [main] INFO  basic.FindElementInArray - Searching for number: 5
-2025-08-26 17:27:58 [main] INFO  basic.FindElementInArray - Array contents: [1, 3, 4, 5, 8, 2, 9]
-2025-08-26 17:27:58 [main] INFO  basic.FindElementInArray - Using traditional loop method to check if element exists
-2025-08-26 17:27:58 [main] INFO  basic.FindElementInArray - Number 5 is present in the array!
-2025-08-26 17:27:58 [main] INFO  basic.FindElementInArray - Using Java 8 Stream method to check if element exists
-2025-08-26 17:27:58 [main] INFO  basic.FindElementInArray - Number 5 is present in the array!
-2025-08-26 17:27:58 [main] INFO  basic.FindElementInArray - FindElementInArray program completed
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Starting FindPositionOfASCII program
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Demonstration with hardcoded values ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - 
+2025-08-23 20:16:15 [main] INFO  intermediate.SwapTwoVariable - This is an INFO message
+2025-08-23 21:07:52 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 10 b = 20
+2025-08-23 21:07:52 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 20 b = 10
+2025-08-23 21:13:45 [main] INFO  intermediate.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:13:45 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 10 b = 20
+2025-08-23 21:13:45 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 20 b = 10
+2025-08-23 21:13:45 [main] INFO  intermediate.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:13:45 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 20 b = 40
+2025-08-23 21:13:45 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = -40 b = 20
+2025-08-23 21:14:04 [main] INFO  intermediate.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:14:04 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 10 b = 20
+2025-08-23 21:14:04 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 20 b = 10
+2025-08-23 21:14:04 [main] INFO  intermediate.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:14:04 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 20 b = 40
+2025-08-23 21:14:04 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 80 b = 20
+2025-08-23 21:14:43 [main] INFO  intermediate.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:14:43 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 10 b = 20
+2025-08-23 21:14:43 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 20 b = 10
+2025-08-23 21:14:43 [main] INFO  intermediate.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:14:43 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 20 b = 40
+2025-08-23 21:14:43 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 40 b = 20
+2025-08-23 21:16:41 [main] INFO  intermediate.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:16:41 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 10 b = 20
+2025-08-23 21:16:41 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 20 b = 10
+2025-08-23 21:16:41 [main] INFO  intermediate.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:16:41 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 20 b = 40
+2025-08-23 21:16:41 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 40 b = 20
+2025-08-23 21:16:41 [main] INFO  intermediate.SwapTwoVariable - swapWithXOR function
+2025-08-23 21:16:41 [main] INFO  intermediate.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
+2025-08-23 21:16:41 [main] INFO  intermediate.SwapTwoVariable - After swap (XOR): a = 20, b = 10
+2025-08-23 21:20:43 [main] INFO  intermediate.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:20:43 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-08-23 21:20:43 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 20, b = 10
+2025-08-23 21:20:43 [main] INFO  intermediate.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:20:43 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 20, b = 40
+2025-08-23 21:20:43 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 40, b = 20
+2025-08-23 21:20:43 [main] INFO  intermediate.SwapTwoVariable - swapWithXOR function
+2025-08-23 21:20:43 [main] INFO  intermediate.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
+2025-08-23 21:20:43 [main] INFO  intermediate.SwapTwoVariable - After swap (XOR): a = 20, b = 10
+2025-08-23 21:21:01 [main] INFO  intermediate.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:21:01 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-08-23 21:21:01 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 20, b = 10
+2025-08-23 21:21:01 [main] INFO  intermediate.SwapTwoVariable - usingThirdVariableWithArray function
+2025-08-23 21:21:01 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-08-23 21:21:01 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 10, b = 20
+2025-08-23 21:21:01 [main] INFO  intermediate.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:21:01 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 20, b = 40
+2025-08-23 21:21:01 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 40, b = 20
+2025-08-23 21:21:01 [main] INFO  intermediate.SwapTwoVariable - swapWithXOR function
+2025-08-23 21:21:01 [main] INFO  intermediate.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
+2025-08-23 21:21:01 [main] INFO  intermediate.SwapTwoVariable - After swap (XOR): a = 20, b = 10
+2025-08-23 21:24:42 [main] INFO  intermediate.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:24:42 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-08-23 21:24:42 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 20, b = 10
+2025-08-23 21:24:42 [main] INFO  intermediate.SwapTwoVariable - usingThirdVariableWithArray function
+2025-08-23 21:24:42 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-08-23 21:24:42 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 20, b = 10
+2025-08-23 21:24:42 [main] INFO  intermediate.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:24:42 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 20, b = 40
+2025-08-23 21:24:42 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 40, b = 20
+2025-08-23 21:24:42 [main] INFO  intermediate.SwapTwoVariable - swapWithXOR function
+2025-08-23 21:24:42 [main] INFO  intermediate.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
+2025-08-23 21:24:42 [main] INFO  intermediate.SwapTwoVariable - After swap (XOR): a = 20, b = 10
+2025-08-23 21:26:17 [main] INFO  intermediate.SwapTwoVariable - usingThirdVariable function
+2025-08-23 21:26:17 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-08-23 21:26:17 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 20, b = 10
+2025-08-23 21:26:17 [main] INFO  intermediate.SwapTwoVariable - usingThirdVariableWithArray function
+2025-08-23 21:26:17 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-08-23 21:26:17 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 20, b = 10
+2025-08-23 21:26:17 [main] INFO  intermediate.SwapTwoVariable - usingWithOutThirdVariable function
+2025-08-23 21:26:17 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 20, b = 40
+2025-08-23 21:26:17 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 40, b = 20
+2025-08-23 21:26:17 [main] INFO  intermediate.SwapTwoVariable - swapWithXOR function
+2025-08-23 21:26:17 [main] INFO  intermediate.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
+2025-08-23 21:26:17 [main] INFO  intermediate.SwapTwoVariable - After swap (XOR): a = 20, b = 10
+2025-08-24 12:42:22 [main] INFO  intermediate.ReverseNumber - The Given number is: 123
+2025-08-24 12:42:22 [main] INFO  intermediate.ReverseNumber - The Reversed number is: 321
+2025-08-24 12:44:21 [main] INFO  intermediate.ReverseNumber - The Given number is: 2233
+2025-08-24 12:44:21 [main] INFO  intermediate.ReverseNumber - The Reversed number is: 3322
+2025-08-24 19:41:38 [main] INFO  basic.GetThings.GetStringLength - Length of the string usingLengthMethod: 7
+2025-08-24 19:41:38 [main] INFO  basic.GetThings.GetStringLength - Length of the string usingForEachMethod: 7
+2025-08-24 21:00:24 [main] INFO  basic.GetThings.GetSmallestNumber - Mention array list is: [Ljava.lang.Integer;@aecb35a
+2025-08-24 21:00:44 [main] INFO  basic.GetThings.GetSmallestNumber - Mention array list is: [1, 2, 3, 4, 5]
+2025-08-24 21:06:53 [main] INFO  basic.GetThings.GetSmallestNumber - Mention array list is: [1, 2, 3, 4, 5]
+2025-08-24 21:06:53 [main] INFO  basic.GetThings.GetSmallestNumber - Using forEach and maxValue Comparison function
+2025-08-24 21:06:53 [main] INFO  basic.GetThings.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 21:06:53 [main] INFO  basic.GetThings.GetSmallestNumber - Using Arrays Sort, usingArraysLeast function
+2025-08-24 21:06:53 [main] INFO  basic.GetThings.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 21:09:22 [main] INFO  basic.GetThings.GetSmallestNumber - Mention array list is: [1, 2, 3, 4, 5]
+2025-08-24 21:09:22 [main] INFO  basic.GetThings.GetSmallestNumber - Using forEach and maxValue, usingComparison function
+2025-08-24 21:09:22 [main] INFO  basic.GetThings.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 21:09:22 [main] INFO  basic.GetThings.GetSmallestNumber - Using Arrays Sort, usingArraysLeast function
+2025-08-24 21:09:22 [main] INFO  basic.GetThings.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 21:09:22 [main] INFO  basic.GetThings.GetSmallestNumber - Using Collections Sort, usingCollectionArray function
+2025-08-24 21:09:22 [main] INFO  basic.GetThings.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 21:09:45 [main] INFO  basic.GetThings.GetSmallestNumber - Mention array list is: [5, 1, 3, 6, 4, 5]
+2025-08-24 21:09:45 [main] INFO  basic.GetThings.GetSmallestNumber - Using forEach and maxValue, usingComparison function
+2025-08-24 21:09:45 [main] INFO  basic.GetThings.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 21:09:45 [main] INFO  basic.GetThings.GetSmallestNumber - Using Arrays Sort, usingArraysLeast function
+2025-08-24 21:09:45 [main] INFO  basic.GetThings.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 21:09:45 [main] INFO  basic.GetThings.GetSmallestNumber - Using Collections Sort, usingCollectionArray function
+2025-08-24 21:09:45 [main] INFO  basic.GetThings.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 22:13:33 [main] INFO  basic.GetThings.GetSmallestNumber - Mention array list is: [5, 1, 3, 6, 4, 5]
+2025-08-24 22:13:33 [main] INFO  basic.GetThings.GetSmallestNumber - Using forEach and maxValue, usingComparison function
+2025-08-24 22:13:33 [main] INFO  basic.GetThings.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 22:13:33 [main] INFO  basic.GetThings.GetSmallestNumber - Using Arrays Sort, usingArraysLeast function
+2025-08-24 22:13:33 [main] INFO  basic.GetThings.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 22:13:33 [main] INFO  basic.GetThings.GetSmallestNumber - Using Collections.min() function
+2025-08-24 22:13:33 [main] INFO  basic.GetThings.GetSmallestNumber - The min value of this array is: 1
+2025-08-24 22:13:33 [main] INFO  basic.GetThings.GetSmallestNumber - Using Java 8 Streams
+2025-08-24 22:13:33 [main] INFO  basic.GetThings.GetSmallestNumber - The min value of this array is: 1
+2025-08-26 15:14:38 [main] INFO  basic.ReverseThings.ReverseSentence - Number of words: 5
+2025-08-26 15:14:38 [main] INFO  basic.ReverseThings.ReverseSentence - First word: I
+2025-08-26 15:14:38 [main] INFO  basic.ReverseThings.ReverseSentence - Original sentence: I want to become SDET
+2025-08-26 15:14:38 [main] INFO  basic.ReverseThings.ReverseSentence - Reversed sentence (method 1): SDET become to want I
+2025-08-26 15:14:38 [main] INFO  basic.ReverseThings.ReverseSentence - Reversed sentence (method 2): SDET become to want I
+2025-08-26 17:25:31 [main] INFO  basic.FindThings.FindElementInArray - Using loop method for this element contains check
+2025-08-26 17:27:05 [main] INFO  basic.FindThings.FindElementInArray - Starting FindElementInArray program
+2025-08-26 17:27:05 [main] INFO  basic.FindThings.FindElementInArray - Enter the number to check:
+2025-08-26 17:27:15 [main] INFO  basic.FindThings.FindElementInArray - Searching for number: 5
+2025-08-26 17:27:15 [main] INFO  basic.FindThings.FindElementInArray - Array contents: [1, 3, 4, 5, 8, 2, 9]
+2025-08-26 17:27:15 [main] INFO  basic.FindThings.FindElementInArray - Using traditional loop method to check if element exists
+2025-08-26 17:27:15 [main] INFO  basic.FindThings.FindElementInArray - Number 5 is present in the array!
+2025-08-26 17:27:15 [main] INFO  basic.FindThings.FindElementInArray - Using Java 8 Stream method to check if element exists
+2025-08-26 17:27:15 [main] INFO  basic.FindThings.FindElementInArray - Number 5 is present in the array!
+2025-08-26 17:27:15 [main] INFO  basic.FindThings.FindElementInArray - FindElementInArray program completed
+2025-08-26 17:27:50 [main] INFO  basic.FindThings.FindElementInArray - Starting FindElementInArray program
+2025-08-26 17:27:50 [main] INFO  basic.FindThings.FindElementInArray - Enter the number to check:
+2025-08-26 17:27:58 [main] INFO  basic.FindThings.FindElementInArray - Searching for number: 5
+2025-08-26 17:27:58 [main] INFO  basic.FindThings.FindElementInArray - Array contents: [1, 3, 4, 5, 8, 2, 9]
+2025-08-26 17:27:58 [main] INFO  basic.FindThings.FindElementInArray - Using traditional loop method to check if element exists
+2025-08-26 17:27:58 [main] INFO  basic.FindThings.FindElementInArray - Number 5 is present in the array!
+2025-08-26 17:27:58 [main] INFO  basic.FindThings.FindElementInArray - Using Java 8 Stream method to check if element exists
+2025-08-26 17:27:58 [main] INFO  basic.FindThings.FindElementInArray - Number 5 is present in the array!
+2025-08-26 17:27:58 [main] INFO  basic.FindThings.FindElementInArray - FindElementInArray program completed
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Starting FindPositionOfASCII program
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Demonstration with hardcoded values ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII -
 --- Processing: 'A' ---
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Processing input: 'A'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Number of characters to process: 1
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 1 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'A'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'A' (ASCII: 65)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'a' (ASCII: 97)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 1
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'A' is uppercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - 
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Processing input: 'A'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Number of characters to process: 1
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 1 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'A'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'A' (ASCII: 65)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'a' (ASCII: 97)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 1
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'A' is uppercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII -
 --- Processing: 'abc' ---
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Processing input: 'abc'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Number of characters to process: 3
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 1 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'a'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'A' (ASCII: 65)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'a' (ASCII: 97)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 1
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'a' is lowercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 2 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'b'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'B' (ASCII: 66)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'b' (ASCII: 98)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 2
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'b' is lowercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 3 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'c'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'C' (ASCII: 67)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'c' (ASCII: 99)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 3
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'c' is lowercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - 
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Processing input: 'abc'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Number of characters to process: 3
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 1 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'a'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'A' (ASCII: 65)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'a' (ASCII: 97)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 1
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'a' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 2 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'b'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'B' (ASCII: 66)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'b' (ASCII: 98)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 2
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'b' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 3 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'c'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'C' (ASCII: 67)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'c' (ASCII: 99)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 3
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'c' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII -
 --- Processing: 'XyZ' ---
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Processing input: 'XyZ'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Number of characters to process: 3
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 1 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'X'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'X' (ASCII: 88)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'x' (ASCII: 120)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 24
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'X' is uppercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 2 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'y'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'Y' (ASCII: 89)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'y' (ASCII: 121)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 25
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'y' is lowercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 3 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'Z'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'Z' (ASCII: 90)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'z' (ASCII: 122)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 26
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'Z' is uppercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - 
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Processing input: 'XyZ'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Number of characters to process: 3
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 1 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'X'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'X' (ASCII: 88)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'x' (ASCII: 120)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 24
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'X' is uppercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 2 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'y'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'Y' (ASCII: 89)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'y' (ASCII: 121)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 25
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'y' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 3 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'Z'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'Z' (ASCII: 90)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'z' (ASCII: 122)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 26
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'Z' is uppercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII -
 --- Processing: 'Hello World!' ---
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Processing input: 'Hello World!'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Number of characters to process: 12
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 1 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'H'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'H' (ASCII: 72)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'h' (ASCII: 104)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 8
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'H' is uppercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 2 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'e'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'E' (ASCII: 69)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'e' (ASCII: 101)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 5
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'e' is lowercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 3 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'l'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'L' (ASCII: 76)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'l' (ASCII: 108)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 12
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'l' is lowercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 4 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'l'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'L' (ASCII: 76)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'l' (ASCII: 108)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 12
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'l' is lowercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 5 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'o'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'O' (ASCII: 79)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'o' (ASCII: 111)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 15
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'o' is lowercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Character at position 6: ' ' is not a letter (ASCII: 32)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 7 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'W'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'W' (ASCII: 87)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'w' (ASCII: 119)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 23
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'W' is uppercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 8 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'o'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'O' (ASCII: 79)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'o' (ASCII: 111)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 15
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'o' is lowercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 9 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'r'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'R' (ASCII: 82)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'r' (ASCII: 114)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 18
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'r' is lowercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 10 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'l'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'L' (ASCII: 76)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'l' (ASCII: 108)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 12
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'l' is lowercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - === Character at position 11 ===
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Original character: 'd'
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'D' (ASCII: 68)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'd' (ASCII: 100)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 4
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Input character 'd' is lowercase
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - Character at position 12: '!' is not a letter (ASCII: 33)
-2025-08-26 23:49:22 [main] INFO  basic.FindPositionOfASCII - 
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Processing input: 'Hello World!'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Number of characters to process: 12
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 1 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'H'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'H' (ASCII: 72)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'h' (ASCII: 104)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 8
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'H' is uppercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 2 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'e'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'E' (ASCII: 69)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'e' (ASCII: 101)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 5
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'e' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 3 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'l'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'L' (ASCII: 76)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'l' (ASCII: 108)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 12
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'l' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 4 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'l'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'L' (ASCII: 76)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'l' (ASCII: 108)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 12
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'l' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 5 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'o'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'O' (ASCII: 79)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'o' (ASCII: 111)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 15
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'o' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Character at position 6: ' ' is not a letter (ASCII: 32)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 7 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'W'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'W' (ASCII: 87)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'w' (ASCII: 119)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 23
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'W' is uppercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 8 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'o'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'O' (ASCII: 79)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'o' (ASCII: 111)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 15
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'o' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 9 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'r'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'R' (ASCII: 82)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'r' (ASCII: 114)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 18
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'r' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 10 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'l'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'L' (ASCII: 76)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'l' (ASCII: 108)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 12
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'l' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 11 ===
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'd'
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'D' (ASCII: 68)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'd' (ASCII: 100)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 4
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'd' is lowercase
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII - Character at position 12: '!' is not a letter (ASCII: 33)
+2025-08-26 23:49:22 [main] INFO  basic.FindThings.FindPositionOfASCII -
 === Interactive Input Section ===
-2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - User entered: 'f'
-2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - Processing input: 'f'
-2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - Number of characters to process: 1
-2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - === Character at position 1 ===
-2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - Original character: 'f'
-2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'F' (ASCII: 70)
-2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'f' (ASCII: 102)
-2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 6
-2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - Input character 'f' is lowercase
-2025-08-26 23:49:56 [main] INFO  basic.FindPositionOfASCII - FindPositionOfASCII program completed
-2025-08-26 23:50:34 [main] INFO  basic.FindPositionOfASCII - Starting FindPositionOfASCII program
-2025-08-26 23:50:34 [main] INFO  basic.FindPositionOfASCII - 
+2025-08-26 23:49:56 [main] INFO  basic.FindThings.FindPositionOfASCII - User entered: 'f'
+2025-08-26 23:49:56 [main] INFO  basic.FindThings.FindPositionOfASCII - Processing input: 'f'
+2025-08-26 23:49:56 [main] INFO  basic.FindThings.FindPositionOfASCII - Number of characters to process: 1
+2025-08-26 23:49:56 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 1 ===
+2025-08-26 23:49:56 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'f'
+2025-08-26 23:49:56 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'F' (ASCII: 70)
+2025-08-26 23:49:56 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'f' (ASCII: 102)
+2025-08-26 23:49:56 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 6
+2025-08-26 23:49:56 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'f' is lowercase
+2025-08-26 23:49:56 [main] INFO  basic.FindThings.FindPositionOfASCII - FindPositionOfASCII program completed
+2025-08-26 23:50:34 [main] INFO  basic.FindThings.FindPositionOfASCII - Starting FindPositionOfASCII program
+2025-08-26 23:50:34 [main] INFO  basic.FindThings.FindPositionOfASCII -
 === Interactive Input Section ===
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - User entered: 'ABC'
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Processing input: 'ABC'
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Number of characters to process: 3
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - === Character at position 1 ===
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Original character: 'A'
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'A' (ASCII: 65)
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'a' (ASCII: 97)
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 1
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Input character 'A' is uppercase
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - === Character at position 2 ===
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Original character: 'B'
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'B' (ASCII: 66)
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'b' (ASCII: 98)
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 2
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Input character 'B' is uppercase
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - === Character at position 3 ===
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Original character: 'C'
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Uppercase: 'C' (ASCII: 67)
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Lowercase: 'c' (ASCII: 99)
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Alphabet position: 3
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - Input character 'C' is uppercase
-2025-08-26 23:50:38 [main] INFO  basic.FindPositionOfASCII - FindPositionOfASCII program completed
-2025-08-28 19:54:35 [main] INFO  basic.ReverseString - This is the Given value: ajay, This is the Reversed String value: yaja
-2025-08-28 19:54:35 [main] INFO  basic.ReverseString - Reversed value using For loop: !edoC nraeL
-2025-08-28 19:54:35 [main] INFO  basic.ReverseString - Original charArray: [R, e, v, e, r, s, e, C, o, l, l, e, c, t, i, o, n]
-2025-08-28 19:54:35 [main] INFO  basic.ReverseString - Reversed List: noitcelloCesreveR
-2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - With using Iteration function
-2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: b
-2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
-2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - toFindChar: b
-2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 1
-2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - Without using Iteration function
-2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: b
-2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
-2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - stringToFindChar: B
-2025-08-28 21:02:47 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 1
-2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - With using Iteration function
-2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: B
-2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
-2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - toFindChar: B
-2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 0
-2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - Without using Iteration function
-2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: B
-2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
-2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - stringToFindChar: B
-2025-08-28 21:03:07 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 1
-2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - With using Iteration function
-2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: B
-2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
-2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - toFindChar: b
-2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 1
-2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - Without using Iteration function
-2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: B
-2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
-2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - stringToFindChar: B
-2025-08-28 21:03:40 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 1
-2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - With using Iteration function
-2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: o
-2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
-2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - toFindChar: o
-2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 6
-2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - Without using Iteration function
-2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: o
-2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
-2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - stringToFindChar: O
-2025-08-28 22:17:29 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 6
-2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - With using Iteration function
-2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: o
-2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
-2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - toFindChar: o
-2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 6
-2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - Without using Iteration function
-2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - String Passed on toFind: o
-2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
-2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - stringToFindChar: O
-2025-08-28 22:18:13 [main] INFO  basic.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 6
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - User entered: 'ABC'
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Processing input: 'ABC'
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Number of characters to process: 3
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 1 ===
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'A'
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'A' (ASCII: 65)
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'a' (ASCII: 97)
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 1
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'A' is uppercase
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 2 ===
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'B'
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'B' (ASCII: 66)
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'b' (ASCII: 98)
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 2
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'B' is uppercase
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - === Character at position 3 ===
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Original character: 'C'
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Uppercase: 'C' (ASCII: 67)
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Lowercase: 'c' (ASCII: 99)
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Alphabet position: 3
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - Input character 'C' is uppercase
+2025-08-26 23:50:38 [main] INFO  basic.FindThings.FindPositionOfASCII - FindPositionOfASCII program completed
+2025-08-28 19:54:35 [main] INFO  basic.ReverseThings.ReverseString - This is the Given value: ajay, This is the Reversed String value: yaja
+2025-08-28 19:54:35 [main] INFO  basic.ReverseThings.ReverseString - Reversed value using For loop: !edoC nraeL
+2025-08-28 19:54:35 [main] INFO  basic.ReverseThings.ReverseString - Original charArray: [R, e, v, e, r, s, e, C, o, l, l, e, c, t, i, o, n]
+2025-08-28 19:54:35 [main] INFO  basic.ReverseThings.ReverseString - Reversed List: noitcelloCesreveR
+2025-08-28 21:02:47 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - With using Iteration function
+2025-08-28 21:02:47 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - String Passed on toFind: b
+2025-08-28 21:02:47 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
+2025-08-28 21:02:47 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - toFindChar: b
+2025-08-28 21:02:47 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 1
+2025-08-28 21:02:47 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Without using Iteration function
+2025-08-28 21:02:47 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - String Passed on toFind: b
+2025-08-28 21:02:47 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
+2025-08-28 21:02:47 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - stringToFindChar: B
+2025-08-28 21:02:47 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 1
+2025-08-28 21:03:07 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - With using Iteration function
+2025-08-28 21:03:07 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - String Passed on toFind: B
+2025-08-28 21:03:07 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
+2025-08-28 21:03:07 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - toFindChar: B
+2025-08-28 21:03:07 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 0
+2025-08-28 21:03:07 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Without using Iteration function
+2025-08-28 21:03:07 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - String Passed on toFind: B
+2025-08-28 21:03:07 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
+2025-08-28 21:03:07 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - stringToFindChar: B
+2025-08-28 21:03:07 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 1
+2025-08-28 21:03:40 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - With using Iteration function
+2025-08-28 21:03:40 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - String Passed on toFind: B
+2025-08-28 21:03:40 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
+2025-08-28 21:03:40 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - toFindChar: b
+2025-08-28 21:03:40 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 1
+2025-08-28 21:03:40 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Without using Iteration function
+2025-08-28 21:03:40 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - String Passed on toFind: B
+2025-08-28 21:03:40 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
+2025-08-28 21:03:40 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - stringToFindChar: B
+2025-08-28 21:03:40 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 1
+2025-08-28 22:17:29 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - With using Iteration function
+2025-08-28 22:17:29 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - String Passed on toFind: o
+2025-08-28 22:17:29 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
+2025-08-28 22:17:29 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - toFindChar: o
+2025-08-28 22:17:29 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 6
+2025-08-28 22:17:29 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Without using Iteration function
+2025-08-28 22:17:29 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - String Passed on toFind: o
+2025-08-28 22:17:29 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
+2025-08-28 22:17:29 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - stringToFindChar: O
+2025-08-28 22:17:29 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 6
+2025-08-28 22:18:13 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - With using Iteration function
+2025-08-28 22:18:13 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - String Passed on toFind: o
+2025-08-28 22:18:13 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
+2025-08-28 22:18:13 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - toFindChar: o
+2025-08-28 22:18:13 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 6
+2025-08-28 22:18:13 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Without using Iteration function
+2025-08-28 22:18:13 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - String Passed on toFind: o
+2025-08-28 22:18:13 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
+2025-08-28 22:18:13 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - stringToFindChar: O
+2025-08-28 22:18:13 [main] INFO  basic.FindThings.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 6
 2025-08-28 22:33:11 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Using for loop iteration, to replace the character
 2025-08-28 22:34:24 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Using for loop iteration, to replace the character
 2025-08-28 22:37:22 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Using for loop iteration, to replace the character
 2025-08-28 22:39:42 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Using for loop iteration, to replace the character
+2025-08-30 18:24:53 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Using for loop iteration, to replace the character
+2025-08-30 18:28:20 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Using for loop iteration, to replace the character
+2025-08-30 18:28:20 [main] INFO  basic.ReplaceVowelsWithSPCharacter - sentence: I want to become an Senior well known software tester
+2025-08-30 18:28:20 [main] INFO  basic.ReplaceVowelsWithSPCharacter - using Loop char and convert into string: * w*nt t* b*c*m* *n S*n**r w*ll kn*wn s*ftw*r* t*st*r
+2025-08-30 18:28:41 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Using for loop iteration, to replace the character
+2025-08-30 18:28:41 [main] INFO  basic.ReplaceVowelsWithSPCharacter - sentence: I want to become an Senior well known software tester
+2025-08-30 18:28:41 [main] INFO  basic.ReplaceVowelsWithSPCharacter - using Loop char and convert into string: * w*nt t* b*c*m* *n S*n**r w*ll kn*wn s*ftw*r* t*st*r
+2025-08-30 18:32:00 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Print the * string using Regex: * w*nt t* b*c*m* *n S*n**r w*ll kn*wn s*ftw*r* t*st*r
+2025-08-30 18:32:12 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Print the * string using Regex: * w*nt t* b*c*m* *n S*n**r w*ll kn*wn s*ftw*r* t*st*r
+2025-08-30 18:32:12 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Print the $ string using Regex: $ w$nt t$ b$c$m$ $n S$n$$r w$ll kn$wn s$ftw$r$ t$st$r
+2025-08-30 18:32:47 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Using for loop iteration, to replace the character
+2025-08-30 18:32:47 [main] INFO  basic.ReplaceVowelsWithSPCharacter - sentence: I want to become an Senior well known software tester
+2025-08-30 18:32:47 [main] INFO  basic.ReplaceVowelsWithSPCharacter - using Loop char and convert into string: * w*nt t* b*c*m* *n S*n**r w*ll kn*wn s*ftw*r* t*st*r
+2025-08-30 18:32:47 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Using RegExp, to replace the character
+2025-08-30 18:32:47 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Print the * string using Regex: * w*nt t* b*c*m* *n S*n**r w*ll kn*wn s*ftw*r* t*st*r
+2025-08-30 18:32:47 [main] INFO  basic.ReplaceVowelsWithSPCharacter - Print the $ string using Regex: $ w$nt t$ b$c$m$ $n S$n$$r w$ll kn$wn s$ftw$r$ t$st$r
+2025-08-30 19:42:00 [main] INFO  basic.RemoveLeadingAndTrailing - Sentence of variable: Hello World! 
+2025-08-30 19:42:00 [main] INFO  basic.RemoveLeadingAndTrailing - usingTrimFunction: Hello World!
+2025-08-30 19:42:00 [main] INFO  basic.RemoveLeadingAndTrailing - usingStripFunction - strip(): Hello World!
+2025-08-30 19:42:00 [main] INFO  basic.RemoveLeadingAndTrailing - usingStripFunction - stripLeading(): Hello World! 
+2025-08-30 19:42:00 [main] INFO  basic.RemoveLeadingAndTrailing - usingStripFunction - stripTrailing():  Hello World!
+2025-08-30 19:42:00 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing:  Hello World! 
+2025-08-30 19:42:00 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing:  Hello World! 
+2025-08-30 19:42:00 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing:  Hello World! 
+2025-08-30 19:42:46 [main] INFO  basic.RemoveLeadingAndTrailing - Sentence of variable: Hello World! 
+2025-08-30 19:42:46 [main] INFO  basic.RemoveLeadingAndTrailing - usingTrimFunction:Hello World!
+2025-08-30 19:42:46 [main] INFO  basic.RemoveLeadingAndTrailing - usingStripFunction - strip():Hello World!
+2025-08-30 19:42:46 [main] INFO  basic.RemoveLeadingAndTrailing - usingStripFunction - stripLeading():Hello World! 
+2025-08-30 19:42:46 [main] INFO  basic.RemoveLeadingAndTrailing - usingStripFunction - stripTrailing(): Hello World!
+2025-08-30 19:42:46 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing: Hello World! 
+2025-08-30 19:42:46 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing: Hello World! 
+2025-08-30 19:42:46 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing: Hello World! 
+2025-08-30 19:44:05 [main] INFO  basic.RemoveLeadingAndTrailing - Sentence of variable:[ Hello World! ]
+2025-08-30 19:44:05 [main] INFO  basic.RemoveLeadingAndTrailing - usingTrimFunction:[Hello World!]
+2025-08-30 19:44:05 [main] INFO  basic.RemoveLeadingAndTrailing - usingStripFunction - strip():[Hello World!]
+2025-08-30 19:44:05 [main] INFO  basic.RemoveLeadingAndTrailing - usingStripFunction - stripLeading():[Hello World! ]
+2025-08-30 19:44:05 [main] INFO  basic.RemoveLeadingAndTrailing - usingStripFunction - stripTrailing():[ Hello World!]
+2025-08-30 19:44:05 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing:[ Hello World! ]
+2025-08-30 19:44:05 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing:[ Hello World! ]
+2025-08-30 19:44:05 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing:[ Hello World! ]
+2025-08-30 19:45:15 [main] INFO  basic.RemoveLeadingAndTrailing - Sentence of variable:[ Hello World! ]
+2025-08-30 19:45:15 [main] INFO  basic.RemoveLeadingAndTrailing - usingTrimFunction:[Hello World!]
+2025-08-30 19:45:15 [main] INFO  basic.RemoveLeadingAndTrailing - usingStripFunction - strip():[Hello World!]
+2025-08-30 19:45:15 [main] INFO  basic.RemoveLeadingAndTrailing - usingStripFunction - stripLeading():[Hello World! ]
+2025-08-30 19:45:15 [main] INFO  basic.RemoveLeadingAndTrailing - usingStripFunction - stripTrailing():[ Hello World!]
+2025-08-30 19:45:15 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing:[ Hello World! ]
+2025-08-30 19:45:15 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing:[Hello World! ]
+2025-08-30 19:45:15 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing:[ Hello World!]
+2025-08-30 19:45:35 [main] INFO  basic.RemoveLeadingAndTrailing - Sentence of variable:[ Hello World! ]
+2025-08-30 19:45:35 [main] INFO  basic.RemoveLeadingAndTrailing - usingTrimFunction:[Hello World!]
+2025-08-30 19:45:35 [main] INFO  basic.RemoveLeadingAndTrailing - usingStripFunction - strip():[Hello World!]
+2025-08-30 19:45:35 [main] INFO  basic.RemoveLeadingAndTrailing - usingStripFunction - stripLeading():[Hello World! ]
+2025-08-30 19:45:35 [main] INFO  basic.RemoveLeadingAndTrailing - usingStripFunction - stripTrailing():[ Hello World!]
+2025-08-30 19:45:35 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing:[Hello World!]
+2025-08-30 19:45:35 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing:[Hello World! ]
+2025-08-30 19:45:35 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing:[ Hello World!]
