@@ -406,3 +406,7 @@
 2025-08-30 19:45:35 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing:[Hello World!]
 2025-08-30 19:45:35 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing:[Hello World! ]
 2025-08-30 19:45:35 [main] INFO  basic.RemoveLeadingAndTrailing - usingRegexFunction - remove Leading, Trailing:[ Hello World!]
+2025-08-31 16:39:30 [main] INFO  basic.ReverseThings.ReverseString - This is the Given value: ajay, This is the Reversed String value: yaja
+2025-08-31 16:39:30 [main] INFO  basic.ReverseThings.ReverseString - Reversed value using For loop: !edoC nraeL
+2025-08-31 16:39:30 [main] INFO  basic.ReverseThings.ReverseString - Original charArray: [R, e, v, e, r, s, e, C, o, l, l, e, c, t, i, o, n]
+2025-08-31 16:39:30 [main] INFO  basic.ReverseThings.ReverseString - Reversed List: noitcelloCesreveR
