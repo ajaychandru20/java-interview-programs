@@ -48,16 +48,16 @@ public class SwapTwoVariable {
 
     public void usingWithOutThirdVariable(){
         logger.info("usingWithOutThirdVariable function");
-        a = 20;
-        b = 40;
+        int firstValue = 20;
+        int secondValue = 40;
 
         logger.info("This is before swapping: " + "a = " + a + ", " + "b = " + b);
 
-        a = a - b;
-        b = a + b;
-        a = b - a;
+        firstValue = firstValue - secondValue;
+        secondValue = firstValue + secondValue;
+        firstValue = secondValue - firstValue;
 
-        logger.info("This is after swapping: " + "a = " + a + ", " + "b = " + b);
+        logger.info("This is after swapping: " + "firstValue = " + firstValue + ", " + "secondValue = " + secondValue);
 
     }
 

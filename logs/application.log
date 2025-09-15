@@ -410,3 +410,43 @@
 2025-08-31 16:39:30 [main] INFO  basic.ReverseThings.ReverseString - Reversed value using For loop: !edoC nraeL
 2025-08-31 16:39:30 [main] INFO  basic.ReverseThings.ReverseString - Original charArray: [R, e, v, e, r, s, e, C, o, l, l, e, c, t, i, o, n]
 2025-08-31 16:39:30 [main] INFO  basic.ReverseThings.ReverseString - Reversed List: noitcelloCesreveR
+2025-09-04 22:27:21 [main] INFO  basic.ReverseThings.ReverseString - This is the Given value: ajay, This is the Reversed String value: yaja
+2025-09-04 22:27:21 [main] INFO  basic.ReverseThings.ReverseString - Reversed value using For loop: !edoC nraeL
+2025-09-04 22:27:21 [main] INFO  basic.ReverseThings.ReverseString - Original charArray: [R, e, v, e, r, s, e, C, o, l, l, e, c, t, i, o, n]
+2025-09-04 22:27:21 [main] INFO  basic.ReverseThings.ReverseString - Reversed List: noitcelloCesreveR
+2025-09-07 16:19:14 [main] INFO  basic.ReverseThings.ReverseString - This is the Given value: ajay, This is the Reversed String value: yaja
+2025-09-07 16:19:14 [main] INFO  basic.ReverseThings.ReverseString - Reversed value using For loop: !edoC nraeL
+2025-09-07 16:19:14 [main] INFO  basic.ReverseThings.ReverseString - Original charArray: [R, e, v, e, r, s, e, C, o, l, l, e, c, t, i, o, n]
+2025-09-07 16:19:14 [main] INFO  basic.ReverseThings.ReverseString - Reversed List: noitcelloCesreveR
+2025-09-07 16:21:50 [main] INFO  basic.ReverseThings.ReverseString - This is the Given value: ajay, This is the Reversed String value: yaja
+2025-09-07 16:21:50 [main] INFO  basic.ReverseThings.ReverseString - Reversed value using For loop: !edoC nraeL
+2025-09-07 16:21:50 [main] INFO  basic.ReverseThings.ReverseString - Original charArray: [R, e, v, e, r, s, e, C, o, l, l, e, c, t, i, o, n]
+2025-09-07 16:21:50 [main] INFO  basic.ReverseThings.ReverseString - Reversed List: noitcelloCesreveR
+2025-09-07 16:23:26 [main] INFO  b.F.FindOccurrenceOfAlphabet - With using Iteration function
+2025-09-07 16:23:26 [main] INFO  b.F.FindOccurrenceOfAlphabet - String Passed on toFind: ajayc
+2025-09-07 16:23:26 [main] INFO  b.F.FindOccurrenceOfAlphabet - Sentence: don bosco matriculation school
+2025-09-07 16:23:26 [main] INFO  b.F.FindOccurrenceOfAlphabet - toFindChar: a
+2025-09-07 16:23:26 [main] INFO  b.F.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: 2
+2025-09-07 16:23:26 [main] INFO  b.F.FindOccurrenceOfAlphabet - Without using Iteration function
+2025-09-07 16:23:26 [main] INFO  b.F.FindOccurrenceOfAlphabet - String Passed on toFind: ajayc
+2025-09-07 16:23:26 [main] INFO  b.F.FindOccurrenceOfAlphabet - Sentence: DON BOSCO MATRICULATION SCHOOL
+2025-09-07 16:23:26 [main] INFO  b.F.FindOccurrenceOfAlphabet - stringToFindChar: A
+2025-09-07 16:23:26 [main] INFO  b.F.FindOccurrenceOfAlphabet - Occurrence of the character in the sentence: : 2
+2025-09-07 23:44:53 [main] INFO  intermediate.ReverseNumber - The Given number is: 5
+2025-09-07 23:44:53 [main] INFO  intermediate.ReverseNumber - The Reversed number is: 85
+2025-09-07 23:45:34 [main] INFO  intermediate.ReverseNumber - The Given number is: 53333
+2025-09-07 23:45:34 [main] INFO  intermediate.ReverseNumber - The Reversed number is: 833335
+2025-09-07 23:49:45 [main] INFO  intermediate.SwapTwoVariable - usingThirdVariable function
+2025-09-07 23:49:45 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-09-07 23:49:45 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 20, b = 10
+2025-09-07 23:49:45 [main] INFO  intermediate.SwapTwoVariable - usingThirdVariableWithArray function
+2025-09-07 23:49:45 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 10, b = 20
+2025-09-07 23:49:45 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: a = 20, b = 10
+2025-09-07 23:49:45 [main] INFO  intermediate.SwapTwoVariable - usingWithOutThirdVariable function
+2025-09-07 23:49:45 [main] INFO  intermediate.SwapTwoVariable - This is before swapping: a = 20, b = 10
+2025-09-07 23:49:45 [main] INFO  intermediate.SwapTwoVariable - This is after swapping: firstValue = 40, secondValue = 20
+2025-09-07 23:49:45 [main] INFO  intermediate.SwapTwoVariable - swapWithXOR function
+2025-09-07 23:49:45 [main] INFO  intermediate.SwapTwoVariable - Before swap (XOR): a = 10, b = 20
+2025-09-07 23:49:45 [main] INFO  intermediate.SwapTwoVariable - After swap (XOR): a = 20, b = 10
+2025-09-08 00:00:04 [main] INFO  intermediate.ReverseNumber - The Given number is: 45333
+2025-09-08 00:00:04 [main] INFO  intermediate.ReverseNumber - The Reversed number is: 33354

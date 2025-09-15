@@ -9,13 +9,12 @@ public class ReverseNumber {
     private final Logger logger = LoggerFactory.getLogger(ReverseNumber.class);
 
     private void reverseNumber() {
-        int givenNumber = 0;
-        int reversedNumber = 0;
-
-        System.out.println("Enter the reverse number: ");
+        System.out.println("Enter the number to reverse: ");
 
         Scanner scanner = new Scanner(System.in);
-        givenNumber = scanner.nextInt();
+        int givenNumber = scanner.nextInt();
+        int originalNumber = givenNumber; // Store original for logging
+        int reversedNumber = 0;
 
         logger.info("The Given number is: " + givenNumber);
 
@@ -25,13 +24,11 @@ public class ReverseNumber {
             givenNumber = givenNumber / 10;
         }
         logger.info("The Reversed number is: " + reversedNumber);
-
+        scanner.close();
     }
 
     public static void main(String[] args) {
-
         ReverseNumber number = new ReverseNumber();
         number.reverseNumber();
-
     }
 }

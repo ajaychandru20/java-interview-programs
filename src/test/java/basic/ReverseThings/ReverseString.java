@@ -11,8 +11,8 @@ public class ReverseString {
     public void useReverseFunction() {
         String name = "ajay";
 
-        StringBuffer stringBuffer = new StringBuffer();
-        stringBuffer.append(name);
+        StringBuffer stringBuffer = new StringBuffer(name);
+//        stringBuffer.append(name);
         logger.info("This is the Given value: " + name + ", This is the Reversed String value: " + stringBuffer.reverse());
 
     }
